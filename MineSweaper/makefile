@@ -1,0 +1,4 @@
+All:print
+
+print:
+	cls

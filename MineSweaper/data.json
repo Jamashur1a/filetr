@@ -1,0 +1,48 @@
+{
+
+    "game_mode_count": 3,
+
+    "game_modes": {
+        "0": {
+            "rows": 10,
+            "columns": 10,
+            "bombs": 10
+        },
+        "1": {
+            "rows": 15,
+            "columns": 15,
+            "bombs": 40
+        },
+        "2": {
+            "rows": 30,
+            "columns": 30,
+            "bombs": 99
+        },
+        "3":{
+            "rows": 50,
+            "columns": 50,
+            "bombs": 300
+        }
+
+    }
+    ,
+    "game_params": {
+        "width": 600,
+        "height": 600
+    }
+    ,
+    "game_data": {
+        "0": {
+            "time": 0,
+            "attempts": 0
+        },
+        "1": {
+            "time": 0,
+            "attempts": 0
+        },
+        "2": {
+            "time": 0,
+            "attempts": 0
+        }
+    }
+}
